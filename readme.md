@@ -25,13 +25,13 @@
 [slick-carousel](https://kenwheeler.github.io/slick/)
 
 ### Страницы
-* [Landing page](https://yubil-olga.github.io/Education/dist)
-* [Sign in](https://yubil-olga.github.io/Education/dist/login)
-* [Registration](https://yubil-olga.github.io/Education/dist/registration)
-* [Room details](https://yubil-olga.github.io/Education/dist/room-details)
-* [Preferences](https://yubil-olga.github.io/Education/dist/search-room.html)
+* [Landing page](https://yubil-olga.github.io/Toxin/dist)
+* [Sign in](https://yubil-olga.github.io/Toxin/dist/login)
+* [Registration](https://yubil-olga.github.io/Toxin/dist/registration)
+* [Room details](https://yubil-olga.github.io/Toxin/dist/room-details)
+* [Preferences](https://yubil-olga.github.io/Toxin/dist/search-room.html)
 * UI-kit
-  * [Colors-type](https://yubil-olga.github.io/Education/dist/colors-type)
-  * [Form-elements](https://yubil-olga.github.io/Education/dist/form-elements)
-  * [Cards](https://yubil-olga.github.io/Education/dist/cards)
-  * [Headers&Footers](https://yubil-olga.github.io/Education/dist/headers-footers)
+  * [Colors-type](https://yubil-olga.github.io/Toxin/dist/colors-type)
+  * [Form-elements](https://yubil-olga.github.io/Toxin/dist/form-elements)
+  * [Cards](https://yubil-olga.github.io/Toxin/dist/cards)
+  * [Headers&Footers](https://yubil-olga.github.io/Toxin/dist/headers-footers)
